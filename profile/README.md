@@ -24,13 +24,6 @@ Our Agentic AI Suite spans across critical business verticals, delivering tailor
 - **Enterprise Integration:** Seamlessly connect our AI models into your existing business infrastructure and data pipelines.
 - **AI-as-a-Service (AIaaS):** Consumable, scalable, and secure cloud-based AI infrastructure tailored for enterprise needs.
 
-## 🌟 Core Technologies & Stack
-
-- **Frontend:** Next.js, React, Tailwind CSS, TypeScript
-- **AI Orchestration:** _(Add your LLM frameworks, e.g., LangChain, LlamaIndex, OpenAI, Anthropic)_
-- **Backend & Data:** _(Add your backend stack, e.g., Python, Node.js, PostgreSQL, Vector DBs)_
-- **Infrastructure:** _(Add your cloud providers, e.g., AWS, GCP, Azure, Docker, Kubernetes)_
-
 ## 🤝 Connect With Us
 
 - 🌐 **Website:** [intellaxis.ai](https://intellaxis.ai)
